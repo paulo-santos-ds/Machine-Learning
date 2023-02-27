@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning
 
 Machine Learning (Aprendizado de Máquina, em português) é um subcampo da inteligência artificial (IA) que se concentra no desenvolvimento de algoritmos e modelos
 computacionais capazes de aprender a partir de dados, sem serem explicitamente programados para isso. Em outras palavras, o objetivo do Machine Learning é capacitar 
